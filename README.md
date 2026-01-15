@@ -18,13 +18,13 @@
 
 <!-- ===================== SOCIAL BUTTONS ===================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-irreef/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Mohamed-Irreef/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mdirreef@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/YOUR_LEETCODE/" target="_blank">
@@ -92,7 +92,7 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/Mohamed-Irreef/
+- 💼 LinkedIn: [https://www.linkedin.com/in/Mohamed-Irreef/](https://www.linkedin.com/in/mohamed-irreef/)
 - 💻 GitHub: https://github.com/Mohamed-Irreef
 - 📧 Email: mdirreef@gmail.com
 
